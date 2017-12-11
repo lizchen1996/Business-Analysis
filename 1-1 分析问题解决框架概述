@@ -1,0 +1,12 @@
+跨行业数据挖掘标准流程（CRISP-DM）
+这个框架最初由数据挖掘工程师创建，用来寻找定义及分析问题的基本途径。在这个课程中，我们称 CRISP-DM 为 “问题解决框架”。
+
+这个框架由6个步骤构成:
+
+业务理解 Business Issue Understanding
+数据理解 Data Understanding
+数据准备 Data Preparation
+分析/建模 Analysis/Modeling
+模型评估 Validation
+模型发布/可视化 Presentation/Visualization
+
